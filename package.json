@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-resume",
+  "version": "1.0.0",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "createServer": "^3.0.0",
+    "express": "^4.21.2",
+    "node": "^20.19.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
